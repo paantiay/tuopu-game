@@ -1,0 +1,24 @@
+{
+  "name": "Tuopu — 3D Action RPG",
+  "short_name": "Tuopu",
+  "description": "Sunlit 3D Humanoid Action Roguelite for iPhone, Android, and Desktop.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#9be2ff",
+  "theme_color": "#9be2ff",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
